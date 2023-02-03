@@ -1,0 +1,16 @@
+.card {
+  box-sizing: border-box;
+  border: 3px solid black;
+  padding: 10px;
+}
+
+.good {
+  background-color: palegoldenrod;
+  color: darkolivegreen;
+}
+
+.bad {
+  background-color: pink;
+  color: darkred;
+  font-style: italic;
+}
